@@ -17,4 +17,4 @@ The results reveal that Pyber’s ridesharing services are more popular in Urban
 
 # Summary
 
-From these learnings, there are three recommendations that I would make to the CEO. The first is to test lower fares in Rural areas. This might encourage more people in these areas to use the app. The second is to test higher fares in Urban areas. If the demand remains the same (or even if it decreases slightly) the Urban areas have the potential to bring in even more revenue than they already do. The third is to XX. 
+From these learnings, there are three recommendations that I would make to the CEO. The first is to test lower fares in Rural areas. This might encourage more people in these areas to use the app. The second is to test higher fares in Urban areas. If the demand remains the same (or even if it decreases slightly) the Urban areas have the potential to bring in even more revenue than they already do. The third is to test adjusting fares depending on current events. If there's a big event in an area, or it is raining, or there's some other cause for higher demand, it may be beneficial to test higher prices to see if more revenue can be generated. 
